@@ -1,0 +1,6 @@
+[submodule "JimOS"]
+	path = JimOS
+	url = https://github.com/LordGoatius/JimOS
+[submodule "JimOS_old"]
+	path = JimOS_old
+	url = https://github.com/LordGoatius/JimOS_old
